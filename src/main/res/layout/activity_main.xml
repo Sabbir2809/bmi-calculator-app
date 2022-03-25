@@ -281,7 +281,7 @@
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/currentHeight"
+            android:id="@+id/currentheight"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
@@ -304,7 +304,7 @@
             android:textSize="20sp" />
 
         <SeekBar
-            android:id="@+id/seekBarForHeight"
+            android:id="@+id/seekbarforheight"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
